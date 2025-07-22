@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <table cellpadding="0" cellspacing="0" style="font-family: Aptos, sans-serif; font-size: 14px;">
+      <tr>
+        <!-- logo -->
+        <td>
+          <img src="https://raw.githubusercontent.com/zainab967/logo/refs/heads/main/Acme%20One%20Logo-01.png" alt="Company Logo" width="60" />
+        </td>
+
+        <!-- dash -->
+        <td style="width: 1px; background-color: #cccccc; padding: 0 0.6px;"></td>
+
+        <!-- text -->
+        <td style="padding-left: 10px;">
+          <strong style="font-size: 16px;">Somia Waseem</strong><br/>
+          Senior Consultant<br/>
+          <a href="+923208440433" style="font-family: 'Aptos', Arial, sans-serif; text-decoration: none;">+92320844043</a><br/>
+          <a href="mailto:somia.waseem@acme-one.com" style="font-family: Aptos, Arial, sans-serif ;text-decoration: none;">somia.waseem@acme-one.com</a><br/>
+          <a href="https://www.linkedin.com/in/somia-waseem-8a5500107/" style="font-family: Aptos, Arial, sans-serif ;text-decoration: none;">LinkedIn Profile</a>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
