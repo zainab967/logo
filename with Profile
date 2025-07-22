@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <table cellpadding="0" cellspacing="0" style="font-family: Aptos, Arial, sans-serif; font-size: 14px; color: #1E3A5F;">
+      <tr>
+        <!-- logo -->
+        <td style="text-align: center; padding-right: 15px;">
+          <!-- Circle Profile Image -->
+          <img src="https://raw.githubusercontent.com/zainab967/tester/refs/heads/main/download%20(5).jpg" alt="Profile"
+               style="width: 100px; height: 100px; border-radius: 50%; display: block; margin-bottom: 8px;">
+          <!-- Company Logo -->
+          <img src="https://raw.githubusercontent.com/zainab967/logo/refs/heads/main/Acme%20One%20Logo-01.png" 
+               alt="Company Logo" width="60">
+        </td>
+
+        <!-- vertical divider -->
+        <td style="width: 1px; background-color: #cccccc;"></td>
+
+        <!-- text -->
+        <td style="padding-left: 15px;">
+          <p style="margin: 0; font-size: 16px; font-weight: bold; color: #1E3A5F;">Somia Waseem</p>
+           <p style="margin: 0; font-size: 16px; font-weight: bold; color: #1E3A5F;">Senior Consultant</p>
+          <div style="height: 10px;"></div> <!-- line space -->
+          <p style="margin: 0;"><a href="tel:+923208440433" style="text-decoration: none; color: #1E3A5F;">📞 +92 320 844 0433</a></p>
+          <p style="margin: 0;"><a href="mailto:somia.waseem@acme-one.com" style="text-decoration: none; color: #1E3A5F;">✉️ somia.waseem@acme-one.com</a></p>
+          <p style="margin: 0;"><a href="https://www.linkedin.com/in/somia-waseem-8a5500107/" style="text-decoration: none; color: #1E3A5F;">🔗 LinkedIn Profile</a></p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
